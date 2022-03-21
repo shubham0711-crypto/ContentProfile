@@ -1,37 +1,38 @@
 {
-    "Name": "Demo User",
-    "Position": "Software Developer",
-    "Description": "Welcome to my website. My name is Demo User,I ❤️ Programming.",
-    "Address": "Vancouver, Canada",
-    "Company": "Future Technologies",
-    "School": "University of Demo",
+    "Name": "Shubham Choksi",
+    "Position": "Independent Freelancer",
+    "Description": "Greetings!.I am a software developer but my Interest is in developing Written Content. I rely on facts and my goal is to maximize reader satisfaction.",
+    "Address": "Guarat, India",
+    "Company": "Freelancer",
+    "School": "CGPIT",
     "SocialMedias": [
-      "https://github.com/waynezhang1995",
-      "https://www.linkedin.com/in/wayne-zhang-ab5534129/",
-      "https://www.facebook.com/wayne.zhang.3"
+      "https://github.com/shubham0711-crypto",
+      "https://www.linkedin.com/in/shubham-choksi-ab78781b9",
+      "https://www.facebook.com/"
     ],
     "experiences": [
       {
-        "companyName": "Future Technologies",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-        "url": "https://www.google.com/",
+          "companyName": "Blue Marble Professionals",
+        "logo": "data:image/jpeg;base64,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",
+        "url": "https://www.linkedin.com/company/bluemarbleprofessionals",
         "roles": [
           {
-            "title": "Software developer",
-            "description": "Developed web-based Software.",
-            "startDate": "2018-01-08",
-            "currentJob": true,
-            "location": "Vancouver BC. Canada"
+            "title": "GhostWritting Intern",
+            "description": "Developed an article on 'Impact of Self-Esteem on Life'.",
+            "startDate": "03/01/2019",
+            "endDate": "04/01/2019",
+            "currentJob": false,
+            "location": "Remote"
           }
         ]
       },
       {
-        "companyName": "Demo1 Technologies",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-        "url": "https://www.google.com/",
+        "companyName": "WorkMob",
+        "logo": "data:image/png;base64,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",
+        "url": "https://www.workmob.com/",
         "roles": [
           {
-            "title": "Full Stack Developer",
+            "title": "Content Writer Intern",
             "description": "Built and updated various Chrome Extensions.",
             "startDate": "2017-01-01",
             "endDate": "2017-05-01",
@@ -40,160 +41,69 @@
         ]
       },
       {
-        "companyName": "Demo2 Technologies",
+        "companyName": "Independent",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
         "url": "https://www.google.com/",
         "roles": [
           {
-            "title": "UI Designer",
-            "description": "Design user-fridendly web page",
-            "startDate": "2016-05-01",
-            "endDate": "2016-09-01",
-            "location": "Beijing, China"
+            "title": "Freelancing",
+            "description": "Make Articles/Blogs/Contents motivating readers to engage their interests",
+            "startDate": "2022-01-011",
+            "=currentJob": true,
+            "location": "Gujarat, India"
           }
         ]
       }
     ],
     "Skills": [
       {
-        "Area": "Programming Language",
+        "Area": "Techincal Writting",
         "SkillSet": [
           {
-            "Name": "Java",
+            "Name": "Research and Summaries",
             "Hot": true
           },
           {
-            "Name": "C#",
+            "Name": "Product Descriptons",
             "Hot": false
           },
           {
-            "Name": "Python",
+            "Name": "Resumes and Cover Letters",
             "Hot": false
           }
         ]
       },
       {
-        "Area": "Web-Based Application Development",
+        "Area": "Creative Writting",
         "SkillSet": [
           {
-            "Name": "JavaScript (ES5, ES6)",
+            "Name": "Articles and Blog Posts",
             "Hot": true
           },
           {
-            "Name": "TypeScript",
+            "Name": "Buisness Names and Slogans",
             "Hot": false
           },
           {
-            "Name": "HTML5",
+            "Name": "Website Contemt",
             "Hot": true
           },
           {
-            "Name": "CSS (SCSS/SASS)",
-            "Hot": true
-          },
-          {
-            "Name": "React",
-            "Hot": true
-          },
-          {
-            "Name": "Redux",
+            "Name": "Game Writting",
             "Hot": false
-          },
-          {
-            "Name": "JQuery",
-            "Hot": false
-          },
-          {
-            "Name": "NPM",
-            "Hot": false
-          },
-          {
-            "Name": "Grunt",
-            "Hot": false
-          },
-          {
-            "Name": "Jamine JavaScript Unit Test",
-            "Hot": true
-          },
-          {
-            "Name": "WebPack",
-            "Hot": false
-          },
-          {
-            "Name": "UX/UI Design",
-            "Hot": false
-          }
+          }  
         ]
       },
       {
-        "Area": "Database",
+        "Area": "Translation",
         "SkillSet": [
           {
-            "Name": "Microsoft SQL",
+            "Name": "Hindi-English and vice vers",
             "Hot": false
           },
           {
-            "Name": "My SQL",
+            "Name": "Gujarati-English",
             "Hot": false
-          }
-        ]
-      },
-      {
-        "Area": "Platforms",
-        "SkillSet": [
-          {
-            "Name": "Windows",
-            "Hot": false
-          },
-          {
-            "Name": "Unix/Linux",
-            "Hot": false
-          },
-          {
-            "Name": "Mac OS",
-            "Hot": false
-          }
-        ]
-      },
-      {
-        "Area": "Test Driven Development",
-        "SkillSet": [
-          {
-            "Name": "Junit Test",
-            "Hot": false
-          },
-          {
-            "Name": "Jasmine Test",
-            "Hot": true
-          },
-          {
-            "Name": "MSTest",
-            "Hot": false
-          },
-          {
-            "Name": "Selenium Functional Test",
-            "Hot": false
-          }
-        ]
-      },
-      {
-        "Area": "Software Development Tools and Concepts",
-        "SkillSet": [
-          {
-            "Name": "Git",
-            "Hot": true
-          },
-          {
-            "Name": "Docker",
-            "Hot": false
-          },
-          {
-            "Name": "Jenkins",
-            "Hot": false
-          },
-          {
-            "Name": "Agile",
-            "Hot": true
           }
         ]
       }
