@@ -107,54 +107,5 @@
           }
         ]
       }
-    ],
-    "Projects": [
-      {
-        "Name": "Demo Project 1",
-        "Description": "Demo",
-        "ScreenShotURL": "./demo.svg",
-        "ProjectLink":"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-      },
-      {
-        "Name": "Demo Project 2",
-        "Description": "Demo",
-        "ScreenShotURL": "./demo.svg",
-        "ProjectLink":"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-      },
-      {
-        "Name": "Demo Project 3",
-        "Description": "Demo",
-        "ScreenShotURL": "./demo.svg",
-        "ProjectLink":"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-      }
-    ],
-    "Education": [
-      {
-        "SchoolName": "University of Demo",
-        "Date": "2013 - 2017",
-        "Degree": "Bachelor of Science - BS, Computer Science",
-        "Location": "Vancouver BC. Canada",
-        "Description": "Demo",
-        "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-        "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-        "Awards": [
-          {
-            "Name": "Award 1",
-            "Date": "Mar 2017",
-            "Region": "Vancouver BC. Canada",
-            "Organization": "Demo",
-            "Description": "Demo award",
-            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-          },
-          {
-            "Name": "Award 2",
-            "Date": "May 2019",
-            "Region": "Toronto ON. Canada",
-            "Organization": "Demo",
-            "Description": "Demo award",
-            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-          }
-        ]
-      }
     ]
   }
